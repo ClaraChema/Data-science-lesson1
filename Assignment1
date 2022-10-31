@@ -1,0 +1,8 @@
+  (1) Print(L[6])
+  (2)   Answer is D 
+      L.append(20)        #To add 20 in the list 'L'
+      L.append(32)        #To add 32 in the list 'L'
+      Print(L.count(32))  #To print the occurence of 32 in the list 'L'
+  (3) Arrays can hold a collection of ordered series of elements
+  (4) A vector is a type of array that is one-dimensional
+  (5) It is a one dimensional matrix
